@@ -26,7 +26,7 @@
 
 ## 📫 Get in Touch
 - LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/beabDev)
-- Twitter: [Your Twitter Handle](https://twitter.com/yourhandle)
+- Twitter: [Your Twitter Handle](https://twitter.com/bw40508)
 - Personal Website/Blog: [Your Website](https://mysite.com)
 
 ---
