@@ -25,9 +25,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beab1212&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/beabDev)
-- Twitter: [Your Twitter Handle](https://twitter.com/bw40508)
-- Personal Website/Blog: [Your Website](https://mysite.com)
+- LinkedIn: (https://www.linkedin.com/in/beabDev)
+- Twitter: (https://twitter.com/bw40508)
+- Personal Website/Blog: (https://mysite.com)
 
 ---
 
