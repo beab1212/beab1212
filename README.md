@@ -1,7 +1,7 @@
 # Hi there, I'm Beab! 👋
 
 ## 🌐 About Me
-- 💬 **Learning Journey:** I'm currently learning AI and Machine .
+- 💬 **Learning Journey:** I'm currently learning AI and Machine learning.
 - 🔭 **Tech Enthusiast:** Passionate about learning new technologies and constantly improving my coding skills.
 - 🌱 **Ongoing Learning:** I’m currently deepening my knowledge in Python, Node, JavaScript, React, and Tailwindcss.
 - 🤝 **Looking to Collaborate:** I'm interested in collaborating on Web Development, Automation and Bot's.
