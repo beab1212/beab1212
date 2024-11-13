@@ -27,7 +27,7 @@
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/beabDev
 - Twitter: https://twitter.com/bw40508
-- Personal Website: https://example.com
+- Personal Website: https://mysite.com
 
 ---
 
